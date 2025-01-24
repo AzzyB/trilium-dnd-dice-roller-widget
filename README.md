@@ -3,9 +3,7 @@
 ### Description: 
 Alongside other things, I use my trilium notes to organize my ttrpg games (mainly D&D). Sometimes I go into my d&d notes to organize game notes or pull them up to play and sometimes don't have my bulky bag of dice on me. So I scrapped together a script that could do it right inside my notes. It also just works as a general dice roller for any purpose. 
 
-![image](https://github.com/AzzyB/trilium-dnd-dice-roller-widget/blob/main/screenshots/dnd-dice-roller-widget-01.png)
-![image](https://github.com/AzzyB/trilium-dnd-dice-roller-widget/blob/main/screenshots/dnd-dice-roller-widget-02.png)
-![image](https://github.com/AzzyB/trilium-dnd-dice-roller-widget/blob/main/screenshots/dnd-dice-roller-widget-03.png)
+
 
 ### Features:
 * D20 dice system; d4, d6, d8, d10, d20
